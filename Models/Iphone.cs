@@ -11,7 +11,7 @@ namespace DesafioPOO.Models
             
         public override void InstalarAplicativo(string nomeApp)
         {
-            System.Console.WriteLine($"Instalado aplicativo no Smartphone {nomeApp} com sucesso.");
+            System.Console.WriteLine($"Instalado aplicativo {nomeApp} no Smartphone Iphone com sucesso.");
         }
     }
 }
